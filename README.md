@@ -25,7 +25,7 @@ Digital fashion is an industry that has been expanding rapidly as the metaverse 
 All of these digital fashion experiences and collectibles sound fun, and likely very lucrative for the early companies who stake their claim in the metaverse and evolve their products with user trends. But at the end of the day, they still only seem like collectibles with largely the same utility as buying clothes for your own use in the real world. A large percentage of users will likely engage with digital fashion, other digital collectibles, and the metaverse entirely as consumers. But there are more and more people every day willing to do the reserch and leverage these new tools to build their digital portfolios while also taking part in the fun of collectibles and fast evolving pace of digital culture. Vault NFTs may bridge the gap by providing consumers and investors with both a digital and physical asset. These assets offer an opportunity to invest in a real piece of physical culture that can be more easily valued thanks to an exising market, and which, in theory, can actually be worn − not that you would risk creasing them.
 > "We’re excited about our digital future − a future where NFTs can be bought and sold across multiple platforms and paid for with cryptocurrency; a future harnessed by new NFT products that empower the creator economy; and a future where web3 unlocks marketplace efficiencies and new experiences for our global community. Our digital future will enable an ever expanding opportunity to trade and consume current culture." −Scott Cutler, CEO StockX
 
-![Vault NFT Chunky Dunky](chunky-dunky-vault-nft.jpg)
+![Vault NFT Chunky Dunky](chunkydunky.jpg)
 
 > Vault NFT for the Nike SB Dunk Low Ben & Jerry's Chunky Dunky (StockX)
 
