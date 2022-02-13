@@ -37,10 +37,10 @@ Currently, StockX is slow relaeasing their Vault NFTs for a limited selection of
 
 ### Sources
 
-[StockX Vault NFTs](https://stockx.com/lp/nfts/?source=mobile)
-[StockX Vault NFT Launch](https://stockx.com/about/stockx-launches-vault-nfts/)
-[Wikipedia - StockX](https://en.wikipedia.org/wiki/StockX)
-[Business Insider - Vault NFTs](https://markets.businessinsider.com/news/stocks/vault-nfts-launches-digital-sneakers-ahead-of-highly-anticipated-stockx-ipo-1031114207)
-[Yahoo! - Global Sneaker Resale Market](https://news.yahoo.com/global-sneaker-resale-market-could-reach-30-billion-by-2030-cowen-191003371.html)
-[Statista - StockX Statistics](https://www.statista.com/chart/24313/stockx-gross-merchandise-volume/#:~:text=Over%20the%20past%20few%20years,billion%20sneaker%20market%20by%202025.)
-[Forbes - Yeezy Gap Engineered by Balenciaga](https://www.forbes.com/sites/pamdanziger/2022/01/10/theres-a-new-face-of-luxury-as-balenciaga-and-kanye-west-collaborate-for-yeezy-gap/?sh=2612427b4a6a)
+- [StockX Vault NFTs](https://stockx.com/lp/nfts/?source=mobile)
+- [StockX Vault NFT Launch](https://stockx.com/about/stockx-launches-vault-nfts/)
+- [Wikipedia - StockX](https://en.wikipedia.org/wiki/StockX)
+- [Business Insider - Vault NFTs](https://markets.businessinsider.com/news/stocks/vault-nfts-launches-digital-sneakers-ahead-of-highly-anticipated-stockx-ipo-1031114207)
+- [Yahoo! - Global Sneaker Resale Market](https://news.yahoo.com/global-sneaker-resale-market-could-reach-30-billion-by-2030-cowen-191003371.html)
+- [Statista - StockX Statistics](https://www.statista.com/chart/24313/stockx-gross-merchandise-volume/#:~:text=Over%20the%20past%20few%20years,billion%20sneaker%20market%20by%202025.)
+- [Forbes - Yeezy Gap Engineered by Balenciaga](https://www.forbes.com/sites/pamdanziger/2022/01/10/theres-a-new-face-of-luxury-as-balenciaga-and-kanye-west-collaborate-for-yeezy-gap/?sh=2612427b4a6a)
