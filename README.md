@@ -25,7 +25,22 @@ Digital fashion is an industry that has been expanding rapidly as the metaverse 
 All of these digital fashion experiences and collectibles sound fun, and likely very lucrative for the early companies who stake their claim in the metaverse and evolve their products with user trends. But at the end of the day, they still only seem like collectibles with largely the same utility as buying clothes for your own use in the real world. A large percentage of users will likely engage with digital fashion, other digital collectibles, and the metaverse entirely as consumers. But there are more and more people every day willing to do the reserch and leverage these new tools to build their digital portfolios while also taking part in the fun of collectibles and fast evolving pace of digital culture. Vault NFTs may bridge the gap by providing consumers and investors with both a digital and physical asset. These assets offer an opportunity to invest in a real piece of physical culture that can be more easily valued thanks to an exising market, and which, in theory, can actually be worn − not that you would risk creasing them.
 > "We’re excited about our digital future − a future where NFTs can be bought and sold across multiple platforms and paid for with cryptocurrency; a future harnessed by new NFT products that empower the creator economy; and a future where web3 unlocks marketplace efficiencies and new experiences for our global community. Our digital future will enable an ever expanding opportunity to trade and consume current culture." −Scott Cutler, CEO StockX
 
-![Vault NFT Chunky Dunky](chunkydunky.jpg)
+![Vault NFT Chunky Dunky](NikeSBChunkyDunky.jpg)
 
 > Vault NFT for the Nike SB Dunk Low Ben & Jerry's Chunky Dunky (StockX)
 
+## Recommendations
+
+Currently, StockX is slow relaeasing their Vault NFTs for a limited selection of products that the company currently has in stock. However, since its inception, their business model has been to receive products from sellers and authenticate them before sending them off to buyers. They charged pretty high fees to provide this service and their NFTs are marketed as significantly reducing these costs for both buyer and seller. It seems like there is an opportunity here for StockX to further link the way their users are accostomed to interacting with them with the draw of digitizing their assets. They could release a list of some of the most desirable sneakers and, for a fee, give owners of those products an opportunity to have them stored in the StockX facility and mint an NFT for the owner to hold or sell the same way they would if purchased through the Vault directly. This could prove a powerful way for StockX to use blockchain technology to incentivize users to turnover valuable inventory to their storage facility in exchange for a token. Owners are better happy that their item is stored in a secure location and has increased resale value and StockX makes more in fees with less labor and more user engagement. Overall, Vault NFTs are a clever way to link two alternative investments. StockX was in a unique position to make this linkage because sneaker prices on the secondary market already fluctuated greatly based on supply and demand. NFTs move in much the same way whereas retailers cannot sell with such price volatility, so it will be interesting to see how their competitors respond. It will be interesting to see what they do in the next year and whether you consider yourself a sneakerhead or not, this hybrid asset category is a good reason to keep your eye on StockX.
+
+---
+
+### Sources
+
+[StockX Vault NFTs](https://stockx.com/lp/nfts/?source=mobile)
+[StockX Vault NFT Launch](https://stockx.com/about/stockx-launches-vault-nfts/)
+[Wikipedia - StockX](https://en.wikipedia.org/wiki/StockX)
+[Business Insider - Vault NFTs](https://markets.businessinsider.com/news/stocks/vault-nfts-launches-digital-sneakers-ahead-of-highly-anticipated-stockx-ipo-1031114207)
+[Yahoo! - Global Sneaker Resale Market](https://news.yahoo.com/global-sneaker-resale-market-could-reach-30-billion-by-2030-cowen-191003371.html)
+[Statista - StockX Statistics](https://www.statista.com/chart/24313/stockx-gross-merchandise-volume/#:~:text=Over%20the%20past%20few%20years,billion%20sneaker%20market%20by%202025.)
+[Forbes - Yeezy Gap Engineered by Balenciaga](https://www.forbes.com/sites/pamdanziger/2022/01/10/theres-a-new-face-of-luxury-as-balenciaga-and-kanye-west-collaborate-for-yeezy-gap/?sh=2612427b4a6a)
