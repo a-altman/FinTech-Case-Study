@@ -29,6 +29,3 @@ All of these digital fashion experiences and collectibles sound fun, and likely 
 
 > Vault NFT for the Nike SB Dunk Low Ben & Jerry's Chunky Dunky (StockX)
 
-## Results
-
-## Recommendations
